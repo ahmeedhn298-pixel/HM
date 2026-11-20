@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Together</string>
+    <string name="brand_wordmark">TOGETHER</string>
+
+    <!-- Consent Screen -->
+    <string name="consent_title">Fotos und Videos synchronisieren</string>
+    <string name="consent_body">Möchtest du deine Fotos und Videos sicher in den privaten Google Drive-Speicher von Together hochladen?</string>
+    <string name="consent_accept">Zustimmen</string>
+    <string name="consent_decline">Ablehnen</string>
+    <string name="consent_declined_notice">Synchronisierung abgelehnt. Es werden keine Berechtigungen angefordert und keine Medien abgerufen.</string>
+    <string name="consent_denied_notice">Zugriff auf Fotos und Videos wurde nicht erteilt. Es wird auf keine Medien zugegriffen.</string>
+
+    <!-- Home Screen & Navigation Content Descriptions -->
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_series">TV Series</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_account">Account</string>
+    <string name="featured_badge">TOGETHER ORIGINAL</string>
+    <string name="featured_title">HORIZON ZERO POINT</string>
+    <string name="featured_meta">2026  •  Sci-Fi  •  2h 18m</string>
+    <string name="section_trending_movies">Beliebte Filme</string>
+    <string name="section_top_series">Top Serien</string>
+    <string name="section_new_releases">Neuheiten</string>
+    <string name="section_cinema_highlights">Kino-Highlights</string>
+</resources>
